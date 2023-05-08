@@ -7,3 +7,5 @@ Evaluation Page
 [so_long_evaluation_page.pdf](https://github.com/C4rrelo/so_long/files/11420499/so_long_evaluation_page.pdf)
 
 Minilibx Docs: https://harm-smits.github.io/42docs/libs/minilibx
+
+Minilibx Tutorial: https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial
