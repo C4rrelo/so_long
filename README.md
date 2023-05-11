@@ -1,6 +1,6 @@
 ![ftpt](https://github.com/C4rrelo/so_long/assets/113292868/965ad5f5-eb89-495b-9b52-10c055a5ba2d)
 
-Try do this Speed Run Maze in less than 3 Minutes :)
+You can't do this speedRun Maze in less than 3 Minutes, gl :)
 
 ![maze](https://user-images.githubusercontent.com/113292868/236808608-ed0e0b5e-6c18-47b0-9bc5-19312b6692c6.png)
 
